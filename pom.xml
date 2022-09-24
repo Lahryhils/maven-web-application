@@ -108,6 +108,7 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+
 	-->
 	<build>
 		<finalName>nodetest</finalName>
