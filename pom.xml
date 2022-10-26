@@ -92,7 +92,8 @@
 		</dependency>
 		
 	</dependencies>
-	<distributionManagement>
+	<!--
+<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
@@ -106,7 +107,7 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
-	
+	-->
 	<build>
 		<finalName>tesla</finalName>
 		
